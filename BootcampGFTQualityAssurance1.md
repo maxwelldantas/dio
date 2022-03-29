@@ -6,7 +6,7 @@ Cursos:
 - [x] Aprenda o que são Estrutura de Dados e Algoritmos
 - [x] Projetos ágeis com SCRUM
 - [x] Introdução ao Git e ao GitHub
-- [ ] Dominando IDEs Java
+- [x] Dominando IDEs Java
 - [ ] Variáveis, Tipos de Dados e Operadores Matemáticos em Java
 - [ ] Entendendo Métodos Java
 - [ ] Lógica Condicional e Controle de Fluxos em Java
