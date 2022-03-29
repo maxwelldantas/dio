@@ -4,7 +4,7 @@ Cursos:
 - [x] GFT Quality Assurance #1
 - [x] Lógica de Programação Essencial
 - [x] Aprenda o que são Estrutura de Dados e Algoritmos
-- [ ] Projetos ágeis com SCRUM
+- [x] Projetos ágeis com SCRUM
 - [x] Introdução ao Git e ao GitHub
 - [ ] Dominando IDEs Java
 - [ ] Variáveis, Tipos de Dados e Operadores Matemáticos em Java
