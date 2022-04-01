@@ -7,12 +7,12 @@ Cursos:
 - [x] Projetos ágeis com SCRUM
 - [x] Introdução ao Git e ao GitHub
 - [x] Dominando IDEs Java
-- [ ] Variáveis, Tipos de Dados e Operadores Matemáticos em Java
-- [ ] Entendendo Métodos Java
-- [ ] Lógica Condicional e Controle de Fluxos em Java
-- [ ] Estruturas de Repetição e Arrays em Java
-- [ ] Reforçando o Conceito de Laços em Java
-- [ ] Introdução a orientação a objetos com Java
+- [x] Variáveis, Tipos de Dados e Operadores Matemáticos em Java
+- [x] Entendendo Métodos Java
+- [x] Lógica Condicional e Controle de Fluxos em Java
+- [x] Estruturas de Repetição e Arrays em Java
+- [x] Reforçando o Conceito de Laços em Java
+- [x] Introdução a orientação a objetos com Java
 - [ ] Debugging Java
 - [ ] Tratamento de Exceções em Java
 - [ ] Trabalhando com Collections Java
@@ -23,11 +23,11 @@ Cursos:
 - [ ] Aprenda a aplicar testes com Java
 
 Mentoria (Live):
-- [ ] Mentoria #1: Aula Inaugural - Bootcamp GFT Quality Assurance #1
+- [x] Mentoria #1: Aula Inaugural - Bootcamp GFT Quality Assurance #1
 
 Desafio de código:
-- [ ] Desafios - GFT QA #1
-- [ ] Mais Desafios - GFT QA #1
+- [x] Desafios - GFT QA #1
+- [x] Mais Desafios - GFT QA #1
 - [ ] Desafios Intermediários - GFT QA #1
 
 Desafio de projeto:
