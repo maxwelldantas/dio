@@ -1,11 +1,11 @@
 Cursos, desafios de projeto, desafios de códigos e mentorias (lives) realizadas no Bootcamp Carrefour Web Developer.
 
 Cursos:
-- [ ] Boas-vindas ao Bootcamp Carrefour Web Developer
-- [ ] Pensamento Computacional
-- [ ] Lógica de Programação Essencial
-- [ ] Introdução ao Git e ao GitHub
-- [ ] Projetos ágeis com SCRUM
+- [x] Boas-vindas ao Bootcamp Carrefour Web Developer
+- [x] Pensamento Computacional
+- [x] Lógica de Programação Essencial
+- [x] Introdução ao Git e ao GitHub
+- [x] Projetos ágeis com SCRUM
 - [ ] Primeiros passos para desenvolvimento web
 - [ ] Introdução a criação de websites com HTML5 e CSS3
 - [ ] Construindo páginas para internet com Bootstrap
@@ -21,14 +21,14 @@ Cursos:
 - [ ] Introdução a Redux com ReactJS
 - [ ] Trabalhando com States & Effects no ReactJs
 - [ ] Introdução ao Ecossistema e Documentação Java
-- [ ] Dominando IDEs Java
-- [ ] Variáveis, Tipos de Dados e Operadores Matemáticos em Java
-- [ ] Entendendo Métodos Java
-- [ ] Lógica Condicional e Controle de Fluxos em Java
-- [ ] Estruturas de Repetição e Arrays em Java
+- [x] Dominando IDEs Java
+- [x] Variáveis, Tipos de Dados e Operadores Matemáticos em Java
+- [x] Entendendo Métodos Java
+- [x] Lógica Condicional e Controle de Fluxos em Java
+- [x] Estruturas de Repetição e Arrays em Java
 - [ ] Programação Orientada a Objetos
-- [ ] Debugging Java
-- [ ] Tratamento de Exceções em Java
+- [x] Debugging Java
+- [x] Tratamento de Exceções em Java
 - [ ] Introdução ao framework Spring Boot
 - [ ] Simplificando Projetos Java com o Spring Boot
 - [ ] Imersão no Spring Framework com Spring Boot
@@ -50,7 +50,7 @@ Desafio de código:
 - [ ] Desafios Intermediários Java - Carrefour Web Developer
 
 Desafio de projeto:
-- [ ] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+- [x] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 - [ ] Recriando a Interface do Netflix
 - [ ] Desenvolvendo uma Progressive Web Application com React para mapear os dados do COVID19 pelo mundo
 - [ ] Conhecendo Spring Data JPA na prática com Java
