@@ -6,20 +6,20 @@ Cursos:
 - [x] Lógica de Programação Essencial
 - [x] Introdução ao Git e ao GitHub
 - [x] Projetos ágeis com SCRUM
-- [ ] Primeiros passos para desenvolvimento web
-- [ ] Introdução a criação de websites com HTML5 e CSS3
-- [ ] Construindo páginas para internet com Bootstrap
-- [ ] Coleções
-- [ ] Debugging e Error Handling
-- [ ] Javascript Assíncrono
-- [ ] Orientação a objetos
-- [ ] Map, Filter e Reduce
-- [ ] Manipulando a D.O.M. com JavaScript
-- [ ] Resolvendo Desafios de Código em Javascript
-- [ ] Introdução ao ReactJS
-- [ ] Desenvolvimento de aplicações para internet com ReactJS
-- [ ] Introdução a Redux com ReactJS
-- [ ] Trabalhando com States & Effects no ReactJs
+- [x] Primeiros passos para desenvolvimento web
+- [x] Introdução a criação de websites com HTML5 e CSS3
+- [x] Construindo páginas para internet com Bootstrap
+- [x] Coleções
+- [x] Debugging e Error Handling
+- [x] Javascript Assíncrono
+- [x] Orientação a objetos
+- [x] Map, Filter e Reduce
+- [x] Manipulando a D.O.M. com JavaScript
+- [x] Resolvendo Desafios de Código em Javascript
+- [x] Introdução ao ReactJS
+- [x] Desenvolvimento de aplicações para internet com ReactJS
+- [x] Introdução a Redux com ReactJS
+- [x] Trabalhando com States & Effects no ReactJs
 - [ ] Introdução ao Ecossistema e Documentação Java
 - [x] Dominando IDEs Java
 - [x] Variáveis, Tipos de Dados e Operadores Matemáticos em Java
@@ -44,13 +44,13 @@ Mentoria (Live):
 
 
 Desafio de código:
-- [ ] Desafios Iniciais Js - Carrefour Web
-- [ ] Desafios Intermediários Js - Carrefour Web Developer
+- [x] Desafios Iniciais Js - Carrefour Web
+- [x] Desafios Intermediários Js - Carrefour Web Developer
 - [ ] Desafios Iniciais Java - Carrefour Web Developer
 - [ ] Desafios Intermediários Java - Carrefour Web Developer
 
 Desafio de projeto:
 - [x] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
-- [ ] Recriando a Interface do Netflix
+- [x] Recriando a Interface do Netflix
 - [ ] Desenvolvendo uma Progressive Web Application com React para mapear os dados do COVID19 pelo mundo
 - [ ] Conhecendo Spring Data JPA na prática com Java
