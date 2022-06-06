@@ -1,4 +1,5 @@
 Cursos, desafios de projeto, desafios de códigos e mentorias (lives) realizadas no Bootcamp Carrefour Web Developer.
+Finalize todos conteúdos até a data 19/05/2022 e certifique seu conhecimento.
 
 Cursos:
 - [x] Boas-vindas ao Bootcamp Carrefour Web Developer
@@ -20,17 +21,17 @@ Cursos:
 - [x] Desenvolvimento de aplicações para internet com ReactJS
 - [x] Introdução a Redux com ReactJS
 - [x] Trabalhando com States & Effects no ReactJs
-- [ ] Introdução ao Ecossistema e Documentação Java
+- [x] Introdução ao Ecossistema e Documentação Java
 - [x] Dominando IDEs Java
 - [x] Variáveis, Tipos de Dados e Operadores Matemáticos em Java
 - [x] Entendendo Métodos Java
 - [x] Lógica Condicional e Controle de Fluxos em Java
 - [x] Estruturas de Repetição e Arrays em Java
-- [ ] Programação Orientada a Objetos
+- [x] Programação Orientada a Objetos
 - [x] Debugging Java
 - [x] Tratamento de Exceções em Java
-- [ ] Introdução ao framework Spring Boot
-- [ ] Simplificando Projetos Java com o Spring Boot
+- [x] Introdução ao framework Spring Boot
+- [x] Simplificando Projetos Java com o Spring Boot
 - [ ] Imersão no Spring Framework com Spring Boot
 
 Mentoria (Live):
@@ -46,11 +47,11 @@ Mentoria (Live):
 Desafio de código:
 - [x] Desafios Iniciais Js - Carrefour Web
 - [x] Desafios Intermediários Js - Carrefour Web Developer
-- [ ] Desafios Iniciais Java - Carrefour Web Developer
-- [ ] Desafios Intermediários Java - Carrefour Web Developer
+- [x] Desafios Iniciais Java - Carrefour Web Developer
+- [x] Desafios Intermediários Java - Carrefour Web Developer
 
 Desafio de projeto:
 - [x] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 - [x] Recriando a Interface do Netflix
-- [ ] Desenvolvendo uma Progressive Web Application com React para mapear os dados do COVID19 pelo mundo
+- [x] Desenvolvendo uma Progressive Web Application com React para mapear os dados do COVID19 pelo mundo
 - [ ] Conhecendo Spring Data JPA na prática com Java
